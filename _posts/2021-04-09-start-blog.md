@@ -6,7 +6,7 @@ categories:
   - Blog
 tags:
   - Blog
-last_modified_at: 2019-04-13T08:06:00-05:00
+last_modified_at: 2021-04-09T11:41:00-09:00
 ---
 
 본래 있었던 github.io를 없애고, 블로그 형태로 다시 시작하고자 합니다.

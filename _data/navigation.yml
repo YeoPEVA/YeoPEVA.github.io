@@ -2,10 +2,12 @@
 main:
   - title: "About"
     url: /about/
+  - title: "Activity"
+    url: /categories/Activity
+  - title: "CTF"
+    url: /categories/CTF/
   - title: "Project"
     url: /Project/
-  - title: "Research"
-    url: /Research/
   - title: "Tags"
     url: /tags/
   - title: "Categories"

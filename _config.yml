@@ -19,7 +19,7 @@ locale                   : "ko"
 title                    : "YeoPEVA"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "이창엽 (술먹냥이)"
+name                     : "이창엽 (Lee Chang Yeob)"
 description              : "DFIR & Reversiong & Threat intelligence"
 url                      : "https://yeopeva.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -94,7 +94,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "이창엽 (술먹냥이)"
+  name             : "이창엽 (Lee Chang Yeob)"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "DFIR & Reversiong & Threat intelligence"
   location         : "South Korea"
