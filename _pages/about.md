@@ -12,13 +12,17 @@ YeoPEVA라는 닉네임을 사용하고 있으며, 천천히라도 꾸준히 성
 
 
 
+CV - KR : 진행중.. 
+
+CV - EN : 진행중.. 
+
 CTF 라이트업 & 활동 & 프로젝트 정리 (2021 기준 활동)
 
-- https://yeopeva.github.io/
+- [https://yeopeva.github.io/](https://yeopeva.github.io/)
 
 워게임 라이트업 & 공부 & 학습 내용 정리 (2021 이전 활동들 존재)
 
-- https://noperfectsecurity.tistory.com/
+- [https://noperfectsecurity.tistory.com/](https://noperfectsecurity.tistory.com/)
 
 
 
@@ -81,17 +85,21 @@ KDFS 2020 (가짜수사관) 3위
 
 2017 한국정보보호학회 동계학술대회 Accept - RFID Skimming 해킹 기법에 관한 고찰
 
+Anti-root 1회 세미나 운영 & 발표 - 스타크래프트 키 알고리즘 리버싱 
+
 
 
 ### 2018
 
 2018 제 4회 정보보호영재교육원 CTF 본선 진출 - 머구머교수지망생이창엽
 
-해킹캠프 18회 - POC 티켓 (둘리팀) 
+해킹캠프 18회 - 1위 POC 티켓 (둘리팀) 
 
 대구대학교 정보보호영재교육원 전문 B 5기 - 메모리 & 디스크 포렌식 (영재원 프로젝트)
 
 2018 한국정보보호학회 동계학술대회 Accept - 카드 해킹의 문제점과 대비방안
+
+창원 경일 고등학교 (교내 동아리) - KY Security 1st CTF 운영 및 출제
 
 
 
@@ -110,6 +118,10 @@ Incognito 2019 - 허니팟에 관한 고찰 및 스팸메일 및 토렌트 동�
 
 
 ### 2020
+
+Anti-root 2회 세미나 운영 & 발표 - CFReDS Hacking Case 
+
+YSM 1회 워크샵 운영 & 발표 - in to the ~~Deep Web~~ (Dark Web)
 
 Dropper API - 백엔드 보조 파트 담당 (COVID-19)
 
@@ -147,3 +159,13 @@ Best of the Best 9th 디지털포렌식 트랙 수료생 - TOP 14
 
 
 해킹캠프 14회, 16회, 17회, 18회 참가
+
+코드엔진 컨퍼런스 2018,2019 참가
+
+코드게이트 2015,2016,2017,2018,2019 참가 
+
+시원포럼 2018,2019 참가 
+
+제 5회 포렌식 인사이트 공개 세미나 참가
+
+HYSS 2016 참가  
