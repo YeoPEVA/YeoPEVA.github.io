@@ -2,6 +2,8 @@
 title: "YeoPEVA"
 permalink: /about/
 layout: single
+toc: true
+toc_sticky: true
 ---
 
 
