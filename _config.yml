@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "이창엽 (Lee Chang Yeob)"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/avatar.jpg"
   bio              : "DFIR & Reversiong & Threat intelligence"
   location         : "South Korea"
   email            :
