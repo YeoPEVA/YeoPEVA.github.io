@@ -28,7 +28,7 @@ title                    : "YeoPEVA"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "이창엽 (Lee Chang Yeob)"
-description              : "DFIR & Rev & Threat intelligence"
+description              : "DFIR & Reversing & Threat intelligence"
 url                      : "https://yeopeva.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "이창엽 (Lee Chang Yeob)"
   avatar           : "/assets/images/avatar.jpg"
-  bio              : "DFIR & Rev & Threat intelligence"
+  bio              : "DFIR & Reversing & Threat intelligence"
   location         : "South Korea"
   email            :
   links:
