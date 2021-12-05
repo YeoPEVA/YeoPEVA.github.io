@@ -6,10 +6,10 @@ main:
     url: /categories/Life/
   - title: "Activity"
     url: /categories/Activity/
+  - title: "Research"
+    url: /categories/Research/
   - title: "CTF"
     url: /categories/CTF/
-  - title: "Project"
-    url: /Project/
   - title: "Tags"
     url: /tags/
   - title: "Categories"
