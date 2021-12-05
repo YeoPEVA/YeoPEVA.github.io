@@ -127,8 +127,6 @@ Anti-root 1회 세미나 운영 & 발표 - 스타크래프트 키 알고리즘 �
 
 2019 5월, 소프트웨어를 물들이다. - 고3이 전하는 .. 작은 호기심이 직업으로 변한 이야기
 
-2019 한국정보보호학회 동계학술대회 Accept - 국내 APT 및 기업 보안 사고에 대한 고찰
-
 Anti-root 2회 세미나 운영 & 발표 - CFReDS Hacking Case 
 
 YSM 1회 워크샵 운영 & 발표 - in to the ~~Deep Web~~ (Dark Web)
