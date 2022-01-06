@@ -27,7 +27,7 @@ locale                   : "ko"
 title                    : "YeoPEVA"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "이창엽 (Lee Chang Yeob)"
+name                     : "이창엽"
 description              : "DFIR & Reversing & Threat intelligence"
 url                      : "https://yeopeva.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
