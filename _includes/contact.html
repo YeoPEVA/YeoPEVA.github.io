@@ -39,7 +39,7 @@
 
     {% if sidebar.website2 %}
     <li class="website"><i class="fas fa-globe-americas"></i>
-      <a href="http://{{ sidebar.website }}" target="_blank">{{ sidebar.website }}</a>
+      <a href="http://{{ sidebar.website2 }}" target="_blank">{{ sidebar.website2 }}</a>
     </li>
     {% endif %}
 
@@ -76,6 +76,12 @@
     {% if sidebar.twitter %}
     <li class="twitter"><i class="fab fa-twitter"></i>
       <a href="https://twitter.com/{{ sidebar.twitter }}" target="_blank">{{ sidebar.twitter }}</a>
+    </li>
+    {% endif %}
+
+    {% if sidebar.facebook %}
+    <li class="twitter"><i class="fab fa-book"></i>
+      <a href="https://www.facebook.com/{{ sidebar.facebook }}" target="_blank">{{ sidebar.facebook }}</a>
     </li>
     {% endif %}
 
