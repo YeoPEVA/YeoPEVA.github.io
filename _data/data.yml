@@ -13,7 +13,6 @@ sidebar:
 
     # Sidebar links
     email: lcy606@naver.com
-    phone: 010 8652 9464 (+82)
     timezone: KST/GMT+9 Timezone
     citizenship:
     website: noperfectsecurity.tistory.com #do not add http://
@@ -24,7 +23,7 @@ sidebar:
     telegram: YeoPEVA # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@YeoPEVA'
     facebook: 'yeopeva'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
@@ -58,12 +57,9 @@ sidebar:
 career-profile:
     title: Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      현재 작성 중입니다.. 
+      조금만 기다려주세요! 
+
 education:
     title: Education
     info:
