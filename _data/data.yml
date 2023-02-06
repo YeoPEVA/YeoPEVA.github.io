@@ -72,12 +72,25 @@ career-profile:
       현재 작성 중입니다.. 
       조금만 기다려주세요! 
 
+      장비
+      - Desktop / E3-1231v3, GTX 970, 16GB, SDD 512GB, hdd 1TB, Win 10 EDU
+      - Gram 14 / i7-1065G7, 16GB, SSD 256, 512GB, Win 11 
+      - Macbook Air (2022) / M2, 24GB, SSD 512GB, MacOS
+      - Ipad Pro 1th / Apple Watch 8th (GPS) / Nintendo Switch (OLED)
+      - Xpenology / Celeron J3455, 4GB, hdd 8TB
+      - MOONDROP KATO, M12 (DAC), Airpods Pro 2nd, MOMENTUM 3 Wireless
+
       자격증 
       - 네트워크 관리사 2급 (2016.12)
       - 리눅스마스터 2급 (2019.10)
       - 인터넷정보관리사 2급 (2020.10)
       - Exterro ACE (2022.01)
       - 디지털포렌식 2급 (2022.12)
+
+      취미
+      - 통기타
+      - 커피 & 칵테일 & 양주
+      - 애니메이션 & 영화 & ETC ... 
 
 education:
     title: Education
@@ -98,8 +111,7 @@ education:
         university: 차세대 보안리더 양성 프로그램 9th
         time: 2020.06 - 2021.03
         details: |
-          CATCH-YOU / 중고거래사기방지 플랫폼 제작
-            - TOP 14
+          CATCH-YOU / 중고거래사기방지 플랫폼 제작 / TOP 14
       - degree: 차세대핵심보안인력 교육훈련 수료
         university: CSTEC
         time: 2017, 2018
