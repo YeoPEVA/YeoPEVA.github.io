@@ -67,10 +67,10 @@ sidebar:
           link:
 
 career-profile:
-    title: Profile & Gear & Hobby  
+    title: Profile
     summary: |
-      현재 작성 중입니다.. 
-      조금만 기다려주세요! 
+      DFIR & Reversing & Threat intelligence 분야에 관심을 가지고 공부하고 있는 학부생입니다.
+      YeoPEVA라는 닉네임을 사용하고 있으며, 천천히라도 꾸준히 성장하는 것을 목표로 하고 있습니다.
 
       장비
       - Desktop / E3-1231v3, GTX 970, 16GB, SDD 512GB, hdd 1TB, Win 10 EDU
@@ -246,9 +246,12 @@ projects:
         link: "#"
         tagline: "Finalist"
 
+      - title: KSCY
+        link: "#"
+        tagline: "6,7회 참가"
       - title: 해킹캠프 
         link: "#"
-        tagline: "14,16,17,18 참가"
+        tagline: "14,16,17,18회 참가"
       - title: Codegate 
         link: "#"
         tagline: "2015 - 2019 참관"
