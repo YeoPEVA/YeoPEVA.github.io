@@ -75,12 +75,34 @@ education:
         details: |
           1학년 (컴퓨터소프트웨어학부), 2학년 세부 전공 (미정)
             - ~~~
+      - degree: 국방분야 SW & AI 역량강화 교육
+        university: 엘리스, 카카오
+        time: 2021, 2022
+        details: |
+            - 2021 / 엘리스
+            - 2022 / 엘리스, 카카오
+      - degree: 디지털포렌식 
+        university: 차세대 보안리더 양성 프로그램 9th
+        time: 2020.06 - 2021.03
+        details: |
+          CATCH-YOU / 중고거래사기방지 플랫폼
+            - TOP 14
+      - degree: 차세대핵심보안인력 교육훈련 수료
+        university: CSTEC
+        time: 2017, 2018
+        details: |
+          정보보호영재교육원 연계 
+      - degree: 전문 B
+        university: 대구대학교 정보보호영재교육원
+        time: 2017 - 2019
+        details: |
+          4기, 5기, 6기 활동 
+            - 4기, 5기 수료
+            - 6기 교육생
 
 oss:
     title: 수상
-    intro: >
-      수상 내역입니다. 
-    
+    intro: 
     contributions:
       - title: 대구대학교 정보보호영재교육원 4기
         link: "#"
