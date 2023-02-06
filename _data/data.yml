@@ -82,15 +82,11 @@ oss:
       수상 내역입니다. 
     
     contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
       - title: 대구대학교 정보보호영재교육원 4기
         link: "#"
         tagline: "단체전 (노력상), 개인전 (노력상)"
 
-      - title: 창원문화도시00청소년 해커톤대회 으뜸상 (창원시장상)
+      - title: 창원문화도시00청소년 해커톤
         link: "#"
         tagline: "으뜸상 (창원시장상)"
 
