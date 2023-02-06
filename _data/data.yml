@@ -59,6 +59,12 @@ sidebar:
 
         - item: J-POP & K-POP
           link:
+        
+        - item: Coffee
+          link:
+
+        - item: Cocktail & Liquor or Spirit 
+          link:
 
 career-profile:
     title: Profile & Gear & Hobby  
@@ -66,39 +72,47 @@ career-profile:
       현재 작성 중입니다.. 
       조금만 기다려주세요! 
 
+      자격증 
+      - 네트워크 관리사 2급 (2016.12)
+      - 리눅스마스터 2급 (2019.10)
+      - 인터넷정보관리사 2급 (2020.10)
+      - Exterro ACE (2022.01)
+      - 디지털포렌식 2급 (2022.12)
+
 education:
     title: Education
     info:
       - degree: 학부 (컴퓨터소프트웨어학부)
         university: 대구가톨릭대학교
-        time: 2020 - NOW
+        time: 2020 - Present
         details: |
           1학년 (컴퓨터소프트웨어학부), 2학년 세부 전공 (미정)
-            - ~~~
+            - Not yet.. 
       - degree: 국방분야 SW & AI 역량강화 교육
         university: 엘리스, 카카오
         time: 2021, 2022
         details: |
             - 2021 / 엘리스
             - 2022 / 엘리스, 카카오
-      - degree: 디지털포렌식 
+      - degree: 디지털포렌식 트랙
         university: 차세대 보안리더 양성 프로그램 9th
         time: 2020.06 - 2021.03
         details: |
-          CATCH-YOU / 중고거래사기방지 플랫폼
+          CATCH-YOU / 중고거래사기방지 플랫폼 제작
             - TOP 14
       - degree: 차세대핵심보안인력 교육훈련 수료
         university: CSTEC
         time: 2017, 2018
         details: |
-          정보보호영재교육원 연계 
+          정보보호영재교육원 연계 교육
       - degree: 전문 B
         university: 대구대학교 정보보호영재교육원
         time: 2017 - 2019
         details: |
-          4기, 5기, 6기 활동 
-            - 4기, 5기 수료
-            - 6기 교육생
+          4기, 5기 수료생, 6기 교육생 
+            - 4기 / Active X의 문제점에 대한 고찰 (영재원 프로젝트)
+            - 5기 / 메모리 & 디스크 포렌식 (영재원 프로젝트)
+            - 6기 / 파일 시그니처로 파일 종류 특정하는 SW 원리 (영재원 프로젝트)
 
 oss:
     title: 수상
@@ -124,9 +138,13 @@ oss:
         link: "#"
         tagline: "1위 - 둘리팀"
 
+      - title: 제1회 DU-IF 창업아이디어 경진대회
+        link: "#"
+        tagline: "최우수상"    
+
       - title: KDFS 2020
         link: "#"
-        tagline: "3위 - 가짜수사관"     
+        tagline: "3위 - 가짜수사관"        
 
       - title: 공군 정보통신경연대회 2022 (해킹방어)
         link: "#"
@@ -139,9 +157,9 @@ oss:
 experiences:
     title: 주요 경험
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: 정보보호병 (825)
+        time: 2021.04 - 2023.01
+        company: 대한민국 공군
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -152,55 +170,118 @@ experiences:
           error sit voluptatem accusantium doloremque laudantium, totam rem
           aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
           architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+            - 제3훈련비행단
+            - 정보체계운영반, 정보보호반
+      - role: 팀장 & 설립자
+        time: 2017 - Present
+        company: Anti-root
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
           Cum sociis natoque penatibus et magnis dis parturient montes,
           nascetur ridiculus mus. Donec quam felis, ultricies nec,
           pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+            - Anti-root 1st, 2nd, 3rd, Fine 행사 운영, 주관
+            - Incognito 2019 / 허니팟에 관한 고찰 및 스팸메일 및 토렌트 동향 분석 (프로젝트) 및 부스 운영
+            - Incognito 2020 / USB 복구 프로그램 원리 이해와 제작 (프로젝트)
+      - role: CTF Player
+        time: 2020 - Present
+        company: Team Senko
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
           Cum sociis natoque penatibus et magnis dis parturient montes,
           nascetur ridiculus mus. Donec quam felis, ultricies nec,
           pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+      - role: Dev Team Member
+        time: 2019 - 2020.12
+        company: Dropper LAB
+        details: |
+          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          Cum sociis natoque penatibus et magnis dis parturient montes,
+          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          pellentesque eu, pretium quis, sem.
+            - Dropper API / 백엔드 보조 파트 (COVID-19)
 
 projects:
     title: 프로젝트 및 활동
     intro: >
       진행했던 프로젝트 및 활동 내용입니다.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
+      - title: 정보보호영재교육원 CTF
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
+        tagline: "2017, 2018, 2019 Finalist"
+      - title: New-Secu 2020
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
+        tagline: "Anti-Named 18th"
+      - title: FIESTA 2020
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
+        tagline: "Senko 11th"
+      - title: DFC 2020
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "RootNameGyuBin 23th"
+      - title: CCE 2021
+        link: "#"
+        tagline: "MHSY(공공) Finalist"
+      - title: CCE 2021
+        link: "#"
+        tagline: "MHSY(공공) Finalist"
+      - title: CCE 2022
+        link: "#"
+        tagline: "제 203 항공마도대대 (공공) Finalist"
+      - title: 공군 사이버전사경연대회 2022
+        link: "#"
+        tagline: "Finalist"
+
+      - title: 해킹캠프 
+        link: "#"
+        tagline: "14,16,17,18 참가"
+      - title: Codegate 
+        link: "#"
+        tagline: "2015 - 2019 참관"
+      - title: 시원포럼
+        link: "#"
+        tagline: "2018 - 2019 참관"
+      - title: 제 5회 포렌식 인사이트 공개 세미나
+        link: "#"
+        tagline: "참관"
+      - title: Black Hat USA 2021
+        link: "#"
+        tagline: "참관 - BoB"
+      - title: S2W SIS 2022
+        link: "#"
+        tagline: "참관"
+
+      - title: KY Security 1st CTF
+        link: "#"
+        tagline: "운영 & 출제 - 고교"
+      - title: 창원문화도시00청소년 해커톤대회
+        link: "#"
+        tagline: "누비자 개선안 제안"
+      - title: 공군 해커톤 2022 
+        link: "#"
+        tagline: "사이버 전사 교육 플랫폼"
+      - title: OSAM 2021
+        link: "#"
+        tagline: "군 중고거래 플랫폼 제안"
+      - title: OSAM 2022
+        link: "#"
+        tagline: "국방정보체계 모니터링 플랫폼"
+
+      - title: XXXX
+        link: "#"
+        tagline: "CTF 문제 - 외주"
+      - title: XXXXX
+        link: "#"
+        tagline: "CTF 문제 - 외주"
+      - title: XXXXX
+        link: "#"
+        tagline: "CTF 문제 - 제작 & 운영"
+      - title: XXX
+        link: "#"
+        tagline: "발표자료"
+
 
 publications:
     title: 발표 및 논문
