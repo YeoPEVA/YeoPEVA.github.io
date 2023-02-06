@@ -9,11 +9,11 @@ layout: default
   {% include education.html %}
 {% endunless %}
 
+{% include oss-contributions.html %}
+
 {% include experiences.html %}
 
 {% include projects.html %}
-
-{% include oss-contributions.html %}
 
 {% include publications.html %}
 
