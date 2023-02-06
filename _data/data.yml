@@ -80,38 +80,38 @@ oss:
     title: 수상
     intro: >
       수상 내역입니다. 
+      
+    - title: 대구대학교 정보보호영재교육원 4기
+      link: "#"
+      tagline: "단체전 (노력상), 개인전 (노력상)"
 
-      - title: 대구대학교 정보보호영재교육원 4기
-        link: "#"
-        tagline: "단체전 (노력상), 개인전 (노력상)"
+    - title: 창원문화도시00청소년 해커톤대회 으뜸상 (창원시장상)
+      link: "#"
+      tagline: "으뜸상 (창원시장상)"
 
-      - title: 창원문화도시00청소년 해커톤대회 으뜸상 (창원시장상)
-        link: "#"
-        tagline: "으뜸상 (창원시장상)"
+    - title: 대구대학교 정보보호영재교육원 5기
+      link: "#"
+      tagline: "우수상 (장학생), 단체전 (노력상), 개인전 (장려상)"
 
-      - title: 대구대학교 정보보호영재교육원 5기
-        link: "#"
-        tagline: "우수상 (장학생), 단체전 (노력상), 개인전 (장려상)"
+    - title: 코드게이트 2017
+      link: "#"
+      tagline: "영상공모전 특별상"
 
-      - title: 코드게이트 2017
-        link: "#"
-        tagline: "영상공모전 특별상"
+    - title: 해킹캠프 18회
+      link: "#"
+      tagline: "1위 - 둘리팀"
 
-      - title: 해킹캠프 18회
-        link: "#"
-        tagline: "1위 - 둘리팀"
+    - title: KDFS 2020
+      link: "#"
+      tagline: "3위 - 가짜수사관"     
 
-      - title: KDFS 2020
-        link: "#"
-        tagline: "3위 - 가짜수사관"     
+    - title: 공군 정보통신경연대회 2022 (해킹방어)
+      link: "#"
+      tagline: "최우수상 (참모총장상)"
 
-      - title: 공군 정보통신경연대회 2022 (해킹방어)
-        link: "#"
-        tagline: "최우수상 (참모총장상)"
-
-      - title: 제 8회 디지털 범인을 찾아라
-        link: "#"
-        tagline: "장려상"
+    - title: 제 8회 디지털 범인을 찾아라
+      link: "#"
+      tagline: "장려상"
 
 experiences:
     title: 주요 경험
