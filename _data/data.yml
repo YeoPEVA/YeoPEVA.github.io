@@ -45,17 +45,23 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Threat Intelligence 
           link:
 
-        - item: Snowboarding
+        - item: DFIR
           link:
 
-        - item: Cooking
+        - item: Reverse Engineering 
+          link:
+        
+        - item: Anime
+          link:
+
+        - item: J-POP & K-POP
           link:
 
 career-profile:
-    title: Profile 
+    title: Profile & Gear & Hobby  
     summary: |
       현재 작성 중입니다.. 
       조금만 기다려주세요! 
@@ -67,32 +73,45 @@ education:
         university: 대구가톨릭대학교
         time: 2020 - NOW
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          1학년 (컴퓨터소프트웨어학부), 2학년 세부 전공 (미정)
+            - ~~~
 
 oss:
     title: 수상
     intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      수상 내역입니다. 
 
-      - title: Atom
+      - title: 대구대학교 정보보호영재교육원 4기
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "단체전 (노력상), 개인전 (노력상)"
 
-      - title: Delta
+      - title: 창원문화도시00청소년 해커톤대회 으뜸상 (창원시장상)
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "으뜸상 (창원시장상)"
+
+      - title: 대구대학교 정보보호영재교육원 5기
+        link: "#"
+        tagline: "우수상 (장학생), 단체전 (노력상), 개인전 (장려상)"
+
+      - title: 코드게이트 2017
+        link: "#"
+        tagline: "영상공모전 특별상"
+
+      - title: 해킹캠프 18회
+        link: "#"
+        tagline: "1위 - 둘리팀"
+
+      - title: KDFS 2020
+        link: "#"
+        tagline: "3위 - 가짜수사관"     
+
+      - title: 공군 정보통신경연대회 2022 (해킹방어)
+        link: "#"
+        tagline: "최우수상 (참모총장상)"
+
+      - title: 제 8회 디지털 범인을 찾아라
+        link: "#"
+        tagline: "장려상"
 
 experiences:
     title: 주요 경험
@@ -138,9 +157,7 @@ experiences:
 projects:
     title: 프로젝트 및 활동
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      진행했던 프로젝트 및 활동 내용입니다.
     assignments:
       - title: Velocity
         link: "#hook"
@@ -165,24 +182,57 @@ projects:
 publications:
     title: 발표 및 논문
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      세미나, 컨퍼런스 발표 및 논문 (학술대회) 포함 내역입니다. 
     papers:
-      - title: The Art of Computer Programming
+      - title: "스타크래프트 키 알고리즘 리버싱"
+        link: "#"
+        authors: 이창엽
+        conference: "Anti-root 1st Seminar, 2017"
+
+      - title: "고3이 전하는 .. 작은 호기심이 직업으로 변한 이야기"
+        link: "#"
+        authors: 이창엽
+        conference: "5월 소프트웨어를 물들이다., 2019"
+
+      - title: "CFReDS Hacking Case"
+        link: "#"
+        authors: 이창엽
+        conference: "Anti-root 2nd Seminar, 2020"
+
+      - title: "in to the Deep Web (Dark Web)"
+        link: "#"
+        authors: 이창엽
+        conference: "YSM 1st Seminar, 2020"
+
+      - title: "Check My Mac for fun"
+        link: "#"
+        authors: 이창엽
+        conference: "Halliance 1st Seminar, 2020"
+
+      - title: "RFID Skimming 해킹 기법에 관한 고찰"
         link: "#"
         authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        conference: "한국정보보호학회 동게학술대회, 2017"
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      - title: "카드 해킹의 문제점과 대비방안"
         link: "#"
         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        conference: "한국정보보호학회 동게학술대회, 2018"
 
-      - title: A syntax directed compiler for Algol 60
+      - title: 국내 APT 및 기업 보안 사고에 대한 고찰
         link: "#"
         authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        conference: "한국정보보호학회 동게학술대회, 2019"
+
+      - title: "중고거래사기방지 플랫폼 제안"
+        link: "#"
+        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: "한국정보보호학회 동게학술대회, 2020"
+
+      - title: "온라인 직거래 환경에서의 사기 피해에 대한 사전 예방 필요성 제언 : 사기 판별 요소를 중심으로"
+        link: "#"
+        authors: Edgar T. Irons
+        conference: "경찰학연구"
         
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
