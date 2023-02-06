@@ -67,7 +67,7 @@ sidebar:
           link:
 
 career-profile:
-    title: Profile
+    title: 프로필
     summary: |
       DFIR & Reversing & Threat intelligence 분야에 관심을 가지고 공부하고 있는 학부생입니다.
       YeoPEVA라는 닉네임을 사용하고 있으며, 천천히라도 꾸준히 성장하는 것을 목표로 하고 있습니다.
@@ -93,7 +93,7 @@ career-profile:
       - 애니메이션 & 영화 & ETC ... 
 
 education:
-    title: Education
+    title: 교육
     info:
       - degree: 학부 (컴퓨터소프트웨어학부)
         university: 대구가톨릭대학교
