@@ -174,26 +174,16 @@ experiences:
         time: 2021.04 - 2023.01
         company: 대한민국 공군
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
+          825기 정보보호병으로 복무하였으며, 정보체계운영반 및 정보보호반에서 근무했습니다.
+          주요 업무로는 정보보호 장비 관리 및 관제, 정책 및 차단 관리, 정보보호 관련 훈련 대응 업무를 진행했습니다.
             - 제3훈련비행단
             - 정보체계운영반, 정보보호반
       - role: 팀장 & 설립자
         time: 2017 - Present
         company: Anti-root
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
+          경상남도 및 부산권 정보보안 세미나 스터디에서 시작하였던 영남권 정보보호 연구 팀입니다.
+          인코그니토 프로젝트 및 자체 세미나를 다수 개최하였으며, 영남권 중점으로 활동을 진행했던 팀입니다.
             - Anti-root 1st, 2nd, 3rd, Fine 행사 운영, 주관
             - Incognito 2019 / 허니팟에 관한 고찰 및 스팸메일 및 토렌트 동향 분석 (프로젝트) 및 부스 운영
             - Incognito 2020 / USB 복구 프로그램 원리 이해와 제작 (프로젝트)
@@ -201,20 +191,12 @@ experiences:
         time: 2020 - Present
         company: Team Senko
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
+          Dropper LAB 산하 CTF TEAM 
       - role: Dev Team Member
         time: 2019 - 2020.12
         company: Dropper LAB
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
+          Dropper LAB / 백엔드 파트 활동
             - Dropper API / 백엔드 보조 파트 (COVID-19)
 
 projects:
