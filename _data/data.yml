@@ -70,11 +70,12 @@ career-profile:
     title: 프로필
     summary: |
       DFIR & Reversing & Threat intelligence 분야에 관심을 가지고 공부하고 있는 학부생입니다.
+
       YeoPEVA라는 닉네임을 사용하고 있으며, 천천히라도 꾸준히 성장하는 것을 목표로 하고 있습니다.
 
       장비
       - Desktop / E3-1231v3, GTX 970, 16GB, SDD 512GB, hdd 1TB, Win 10 EDU
-      - Gram 14 / i7-1065G7, 16GB, SSD 256, 512GB, Win 11 
+      - Gram 14 (2020) / i7-1065G7, 16GB, SSD 256, 512GB, Win 11 
       - Macbook Air (2022) / M2, 24GB, SSD 512GB, MacOS
       - Ipad Pro 1th / Apple Watch 8th (GPS) / Nintendo Switch (OLED)
       - Xpenology / Celeron J3455, 4GB, hdd 8TB
@@ -283,7 +284,9 @@ projects:
       - title: OSAM 2022
         link: "#"
         tagline: "국방정보체계 모니터링 플랫폼"
-
+      - title: 윈도우 디지털 포렌식 완벽 활용서
+        link: "#"
+        tagline: "베타리더 참가"
       - title: XXXX
         link: "#"
         tagline: "CTF 문제 - 외주"
@@ -345,12 +348,12 @@ publications:
 
       - title: "중고거래사기방지 플랫폼 제안"
         link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        authors: 현장호, 이창엽, 임다연, 이현호, 이진우
         conference: "한국정보보호학회 동게학술대회, 2020"
 
       - title: "온라인 직거래 환경에서의 사기 피해에 대한 사전 예방 필요성 제언 : 사기 판별 요소를 중심으로"
         link: "#"
-        authors: Edgar T. Irons
+        authors: 현장호, 이창엽, 임다연, 최원영, 이현호, 이진우
         conference: "경찰학연구"
         
 footer: >
