@@ -315,17 +315,17 @@ publications:
 
       - title: "RFID Skimming 해킹 기법에 관한 고찰"
         link: "#"
-        authors: Donald E. Knuth
+        authors: 김건우, 김태현, 성유원, 여상준, 이진우, 이창엽, 이달원
         conference: "한국정보보호학회 동게학술대회, 2017"
 
       - title: "카드 해킹의 문제점과 대비방안"
         link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        authors: 이진우, 이정훈, 이창엽, 노무승, 오현수
         conference: "한국정보보호학회 동게학술대회, 2018"
 
       - title: 국내 APT 및 기업 보안 사고에 대한 고찰
         link: "#"
-        authors: Edgar T. Irons
+        authors: 이창엽, 이진우, 이정훈, 노무승, 박현상
         conference: "한국정보보호학회 동게학술대회, 2019"
 
       - title: "중고거래사기방지 플랫폼 제안"
