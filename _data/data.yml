@@ -28,7 +28,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: https://yeopeva.github.io/404
 
     languages:
       title: Languages
@@ -110,7 +110,7 @@ education:
             - 2021 / 엘리스
             - 2022 / 엘리스, 카카오
       - degree: 디지털포렌식 트랙
-        university: 차세대 보안리더 양성 프로그램 9th
+        university: 차세대 보안리더 양성 프로그램 9기
         time: 2020.06 - 2021.03
         details: |
           CATCH-YOU / 중고거래사기방지 플랫폼 제작 / TOP 14
@@ -172,7 +172,7 @@ experiences:
     title: 주요 경험
     info:
       - role: 팀장 & 설립자
-        time: 2017 - 2023.02.11
+        time: 2017.05 - 2023.02.11
         company: Anti-root
         details: |
           경상남도 및 부산권 정보보안 세미나 스터디에서 시작하였던 영남권 정보보호 연구 팀입니다.
