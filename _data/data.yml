@@ -172,6 +172,14 @@ oss:
 experiences:
     title: 주요 경험
     info:
+      - role: Member
+        time: 2021 ~ Present
+        company: MiscThings
+        details: |
+          2020년에 시작된, 프로그래밍에 관해 공부하는 창업, 여행, 프로그래밍, 기타 등등의 동아리입니다.
+          MiscThings 동아리는 실제 웹 및 앱 서비스를 직접 개발하고 운영해 봄으로써 기술 습득 및 서비스 기획 마인드를 함양하고자 만들어졌습니다. 
+          재학생을 대상으로 하는 유용하고 실험적이며 재미있는 서비스들을 제작하여 배포하는 것이 주된 목표입니다. (대구대학교 기준)
+
       - role: 팀장 & 설립자
         time: 2017.05 - 2023.02.11
         company: Anti-root
