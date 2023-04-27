@@ -87,7 +87,7 @@ career-profile:
       - 인터넷정보관리사 2급 (2020.10)
       - 인공지능 자격(전문가, KSA 한국표준협회) (2021.12)
       - Exterro ACE (2022.01)
-      - 정보기기운용기능사 (2022.0x)
+      - 정보기기운용기능사 (2022.10)
       - 디지털포렌식 2급 (2022.12)
 
       취미
@@ -104,31 +104,13 @@ education:
         details: |
           1학년 (컴퓨터소프트웨어학부), 2학년 세부 전공 (미정)
             - Not yet.. 
-      - degree: 국방분야 SW & AI 역량강화 교육
-        university: 엘리스, 카카오
-        time: 2021, 2022
+      - degree: 공학반 (이과)
+        university: 창원 경일 고등학교
+        time : 2017 ~ 2020
         details: |
-            - 2021 / 엘리스
-            - 2022 / 엘리스, 카카오
-      - degree: 디지털포렌식 트랙
-        university: 차세대 보안리더 양성 프로그램 9기
-        time: 2020.06 - 2021.03
-        details: |
-          CATCH-YOU / 중고거래사기방지 플랫폼 제작 / TOP 14
-      - degree: 차세대핵심보안인력 교육훈련 수료
-        university: CSTEC
-        time: 2017, 2018
-        details: |
-          정보보호영재교육원 연계 교육
-      - degree: 전문 B
-        university: 대구대학교 정보보호영재교육원
-        time: 2017 - 2019
-        details: |
-          4기, 5기 수료생, 6기 교육생 
-            - 4기 / Active X의 문제점에 대한 고찰 (영재원 프로젝트)
-            - 5기 / 메모리 & 디스크 포렌식 (영재원 프로젝트)
-            - 6기 / 파일 시그니처로 파일 종류 특정하는 SW 원리 (영재원 프로젝트)
-
+          인문계 고등학교 / 학교 내 정보보호 동아리 운영
+            - KY Security 1st CTF 운영 & 활동
+          
 oss:
     title: 수상
     intro: 
@@ -190,6 +172,12 @@ experiences:
             - Incognito 2020 / USB 복구 프로그램 원리 이해와 제작 (프로젝트)
             - Anti-root 2022-2023 / Anti-root Cloud & Yara 
             - 그 외 내부 세미나 및 프로젝트 진행
+      - role: 국방분야 SW & AI 역량강화 교육
+        time: 2021, 2022
+        company: 엘리스, 카카오
+        details: |
+            - 2021 / 엘리스
+            - 2022 / 엘리스, 카카오
       - role: 정보보호병 (825)
         time: 2021.04 - 2023.01
         company: 대한민국 공군
@@ -198,6 +186,11 @@ experiences:
           주요 업무로는 정보보호 장비 관리 및 관제, 정책 및 차단 관리, 정보보호 관련 훈련 대응 업무를 진행했습니다.
             - 제3훈련비행단
             - 정보체계운영반, 정보보호반
+      - role: 디지털포렌식 트랙 교육생 
+        time: 2020.06 - 2021.03
+        company: 차세대 보안리더 양성 프로그램 9기
+        details: |
+          CATCH-YOU / 중고거래사기방지 플랫폼 제작 / TOP 14
       - role: CTF Player
         time: 2020 - 2021.03
         company: Team Senko
@@ -209,6 +202,24 @@ experiences:
         details: |
           Dropper LAB / 백엔드 파트 활동
             - Dropper API / 백엔드 보조 파트 (COVID-19)
+      - role: 전문 B 교육생 
+        time: 2017 - 2019
+        company: 대구대학교 정보보호영재교육원
+        details: |
+          4기, 5기 수료생, 6기 교육생 
+            - 4기 / Active X의 문제점에 대한 고찰 (영재원 프로젝트)
+            - 5기 / 메모리 & 디스크 포렌식 (영재원 프로젝트)
+            - 6기 / 파일 시그니처로 파일 종류 특정하는 SW 원리 (영재원 프로젝트)
+      - role: 차세대핵심보안인력 교육훈련 수료
+        time: 2017, 2018
+        company: CSTEC
+        details: |
+          정보보호영재교육원 연계 교육
+      - role: 교육생 
+        time: 2015
+        company: ITBANK 
+        details: |
+          C, 자료구조, 자바, 윈도우 서버, 리눅스 서버, CCNA 수강 
 
 projects:
     title: 프로젝트 및 활동
@@ -262,9 +273,6 @@ projects:
         link: "#"
         tagline: "참관"
 
-      - title: KY Security 1st CTF
-        link: "#"
-        tagline: "운영 & 출제 - 고교"
       - title: 창원문화도시00청소년 해커톤대회
         link: "#"
         tagline: "누비자 개선안 제안"
@@ -330,22 +338,22 @@ publications:
       - title: "RFID Skimming 해킹 기법에 관한 고찰"
         link: "#"
         authors: 김건우, 김태현, 성유원, 여상준, 이진우, 이창엽, 이달원
-        conference: "한국정보보호학회 동게학술대회, 2017"
+        conference: "한국정보보호학회 동계학술대회, 2017"
 
       - title: "카드 해킹의 문제점과 대비방안"
         link: "#"
         authors: 이진우, 이정훈, 이창엽, 노무승, 오현수
-        conference: "한국정보보호학회 동게학술대회, 2018"
+        conference: "한국정보보호학회 동계학술대회, 2018"
 
       - title: 국내 APT 및 기업 보안 사고에 대한 고찰
         link: "#"
         authors: 이창엽, 이진우, 이정훈, 노무승, 박현상
-        conference: "한국정보보호학회 동게학술대회, 2019"
+        conference: "한국정보보호학회 동계학술대회, 2019"
 
       - title: "중고거래사기방지 플랫폼 제안"
         link: "#"
         authors: 현장호, 이창엽, 임다연, 이현호, 이진우
-        conference: "한국정보보호학회 동게학술대회, 2020"
+        conference: "한국정보보호학회 동계학술대회, 2020"
 
       - title: "온라인 직거래 환경에서의 사기 피해에 대한 사전 예방 필요성 제언 : 사기 판별 요소를 중심으로"
         link: "#"
