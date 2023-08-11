@@ -85,17 +85,23 @@ career-profile:
       - Server / Ryzen 5 5600g, 64GB, SSD 1TB
 
       자격증 (국내)
-      - 네트워크 관리사 2급 (2016.12)
+      - 네트워크 관리사 2급 (2016.12 ~ 2026.12.12)
       - 리눅스마스터 2급 (2019.10)
       - 인터넷정보관리사 2급 (2020.10)
       - 인공지능 자격(전문가, KSA 한국표준협회) (2021.12)
       - 정보기기운용기능사 (2022.10)
-      - 디지털포렌식 2급 (2022.12)
+      - 디지털포렌식 2급 (2022.12.22 ~ 2025.12.22)
       
       자격증 (해외)
-      - Exterro ACE (2022.01)
-      - AWS Solutions Architect (2023.07) 
+      - Exterro ACE (2022.01.11 ~ 2024.01.11)
+      - AWS Solutions Architect (2023.07.26 ~ 2026.7.26) 
 
+      자격증 (ETC)
+      - 문서실무사 4급 (2011.12)
+      - 태권도 2단 (2012.04)
+      - ITQ 아래한글 A (2013.10)
+      - ITQ 인터넷 A (2014.01)
+      - 운전면허 2종 보통 (2020.01)
 
       취미
       - 통기타
@@ -162,10 +168,23 @@ experiences:
     title: 주요 경험
     info:
       - role: Member
+        time: 2023.08 ~ Present
+        company: F-Active
+        details: |
+            - Forensic Active
+
+      - role: 기자팀
+        time: 2023.02 ~ Present
+        company: 차세대 보안리더 양성 프로그램 뉴스레터 4기 뉴스레터 
+        details: |
+            - 수료생 근황 전달 및 BoB 관련 소식 전달 (기자팀)
+
+      - role: Member
         time: 2021 ~ Present
         company: MiscThings
         details: |
             2020년에 시작된, 프로그래밍에 관해 공부하는 창업, 여행, 프로그래밍, 기타 등등의 동아리입니다.
+
       - role: 팀장 & 설립자
         time: 2017.05 - 2023.02.11
         company: Anti-root
@@ -285,21 +304,27 @@ projects:
         link: "#"
         tagline: "참관"
 
+      - title: 솔리언또래상담 프로그램 수료(2017)
+        link: "#"
+        tagline: "고등학교 - 상담 동아리"
+      
       - title: 창원문화도시00청소년 해커톤대회
         link: "#"
         tagline: "누비자 개선안 제안"
+
       - title: 공군 해커톤 2022 
         link: "#"
         tagline: "사이버 전사 교육 플랫폼"
       - title: 공군 창업경진대회 2022 
         link: "#"
-        tagline: "XXX (비공개))"
+        tagline: "XXX (비공개)"
       - title: OSAM 2021
         link: "#"
         tagline: "군 중고거래 플랫폼 제안"
       - title: OSAM 2022
         link: "#"
         tagline: "국방정보체계 모니터링 플랫폼"
+
       - title: 윈도우 디지털 포렌식 완벽 활용서
         link: "#"
         tagline: "베타리더 참가"
