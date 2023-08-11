@@ -73,22 +73,29 @@ career-profile:
 
       YeoPEVA라는 닉네임을 사용하고 있으며, 천천히라도 꾸준히 성장하는 것을 목표로 하고 있습니다.
 
-      장비
+      사용 장비
       - Desktop / E3-1231v3, GTX 970, 16GB, SDD 512GB, HDD 1TB, Win 10 EDU
       - Gram 14 (2020) / i7-1065G7, 16GB, SSD 256, 512GB, Win 11 
       - Macbook Air (2022) / M2, 24GB, SSD 512GB, MacOS
       - Ipad Pro 1st / Apple Watch 8th (GPS) / Nintendo Switch (OLED)
-      - Xpenology / Celeron J3455, 4GB, HDD 8TB
       - MOONDROP KATO, M12 (DAC), Airpods Pro 2nd, MOMENTUM 3 Wireless
 
-      자격증 
+      운용 서버
+      - NAS / Celeron J3455, 4GB, HDD 8TB
+      - Server / Ryzen 5 5600g, 64GB, SSD 1TB
+
+      자격증 (국내)
       - 네트워크 관리사 2급 (2016.12)
       - 리눅스마스터 2급 (2019.10)
       - 인터넷정보관리사 2급 (2020.10)
       - 인공지능 자격(전문가, KSA 한국표준협회) (2021.12)
-      - Exterro ACE (2022.01)
       - 정보기기운용기능사 (2022.10)
       - 디지털포렌식 2급 (2022.12)
+      
+      자격증 (해외)
+      - Exterro ACE (2022.01)
+      - AWS Solutions Architect (2023.07) 
+
 
       취미
       - 통기타
@@ -172,6 +179,11 @@ experiences:
             - Incognito 2020 / USB 복구 프로그램 원리 이해와 제작 (프로젝트)
             - Anti-root 2022-2023 / Anti-root Cloud & Yara 
             - 그 외 내부 세미나 및 프로젝트 진행
+            - Anti-root 1st Seminar / 스타크래프트 키 알고리즘 리버싱 
+            - Anti-root 2nd Seminar / CFReDS Hacking Case
+            - Anti-root Fine Seminar / 스타크래프트 키 알고리즘 리버싱 
+            - Anti-root 내부 세미나 / Magnet Virtual Summit 2020 참관 후기, Cfreds (Axiom, Encase)
+          
       - role: 국방분야 SW & AI 역량강화 교육
         time: 2021, 2022
         company: 엘리스, 카카오
@@ -269,7 +281,7 @@ projects:
       - title: Black Hat USA 2021
         link: "#"
         tagline: "참관 - BoB"
-      - title: S2W SIS 2022
+      - title: S2W SIS 2022, 2023
         link: "#"
         tagline: "참관"
 
@@ -310,20 +322,10 @@ publications:
     intro: |
       세미나, 컨퍼런스 발표 및 논문 (학술대회) 포함 내역입니다. 
     papers:
-      - title: "스타크래프트 키 알고리즘 리버싱"
-        link: "#"
-        authors: 이창엽
-        conference: "Anti-root 1st Seminar, 2017"
-
       - title: "고3이 전하는 .. 작은 호기심이 직업으로 변한 이야기"
         link: "#"
         authors: 이창엽
         conference: "5월 소프트웨어를 물들이다., 2019"
-
-      - title: "CFReDS Hacking Case"
-        link: "#"
-        authors: 이창엽
-        conference: "Anti-root 2nd Seminar, 2020"
 
       - title: "in to the Deep Web (Dark Web)"
         link: "#"
