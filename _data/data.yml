@@ -117,7 +117,7 @@ education:
         time: 2020 - Present
         details: |
           1학년 (컴퓨터소프트웨어학부), 2학년 세부 전공 (미정)
-            - Not yet.. 
+            - i-Keeper (1-2)
       - degree: 공학반 (이과)
         university: 창원 경일 고등학교
         time : 2017 ~ 2020
@@ -168,6 +168,12 @@ oss:
 experiences:
     title: 주요 경험
     info:
+      - role: Member
+        time: 2023.09 ~ Present
+        company: i-Keeper
+        details: |
+            - 1-2 / CERT Team 
+
       - role: Member
         time: 2023.08 ~ Present
         company: F-Active
@@ -296,6 +302,9 @@ projects:
       - title: 시원포럼
         link: "#"
         tagline: "2018 - 2019 참관"
+      - title: 2018 POC
+        link: "#"
+        tagline: "참관"
       - title: 제 5회 포렌식 인사이트 공개 세미나
         link: "#"
         tagline: "참관"
