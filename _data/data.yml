@@ -7,7 +7,7 @@ sidebar:
     education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Lee Changyeob 
+    name: LEE CHANGYEOB 
     tagline: undergraduate
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -116,7 +116,7 @@ education:
         university: 대구가톨릭대학교
         time: 2020 - Present
         details: |
-          컴퓨터 공학 (주 전공) 및 사이버 보안 전공 (복수 전공)
+          컴퓨터 공학 (주 전공) 및 사이버 보안 (복수 전공)
             - i-Keeper (1-2) / CERT - MFT 도구 제작 
             - i-Keeper (2-1) / DEV 
       - degree: 공학반 (이과)
