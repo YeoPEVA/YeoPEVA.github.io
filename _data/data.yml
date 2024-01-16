@@ -116,9 +116,7 @@ education:
         university: 대구가톨릭대학교
         time: 2020 - Present
         details: |
-          컴퓨터 공학 (주 전공) 및 사이버 보안 (복수 전공)
-            - i-Keeper (1-2) / CERT - MFT 도구 제작 
-            - i-Keeper (2-1) / DEV 
+          컴퓨터 공학 (주전공) 및 사이버보안 (복수전공)
       - degree: 공학반 (이과)
         university: 창원 경일 고등학교
         time : 2017 ~ 2020
@@ -173,8 +171,8 @@ experiences:
         time: 2023.09 ~ Present
         company: i-Keeper
         details: |
-            - 1-2 / CERT Team 
-            - 2-1 / Dev Team 
+            - i-Keeper (1-2) / CERT - MFT 도구 제작 
+            - i-Keeper (2-1) / DEV 
 
       - role: Member
         time: 2023.08 ~ Present
