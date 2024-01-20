@@ -164,6 +164,10 @@ oss:
         link: "#"
         tagline: "장려상"
 
+      - title: 제 9회 디지털 범인을 찾아라
+        link: "#"
+        tagline: "장려상"
+
 experiences:
     title: 주요 경험
     info:
@@ -175,13 +179,13 @@ experiences:
             - i-Keeper (2-1) / DEV 
 
       - role: Member
-        time: 2023.08 ~ Present
+        time: 2023.08 ~ 2024.01
         company: F-Active
         details: |
             - Forensic Active
 
       - role: 기자팀
-        time: 2023.02 ~ Present
+        time: 2023.02 ~ 2024.01
         company: 차세대 보안리더 양성 프로그램 4기 뉴스레터 
         details: |
             - 수료생 근황 전달 및 BoB 관련 소식 전달
