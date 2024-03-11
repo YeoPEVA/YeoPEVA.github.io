@@ -235,14 +235,7 @@ experiences:
             - Anti-root Fine Seminar / CloudGoat & 클라우드 서비스 취약점 연구
             - Anti-root Fine Seminar / Yara Rule & Metaspike E-mail Forensic Review
             - Anti-root 내부 세미나 / Magnet Virtual Summit 2020 참관 후기, Cfreds (Axiom, Encase)
-          
-      - role: 국방분야 SW & AI 역량강화 교육
-        time: 2021, 2022
-        company: 엘리스, 카카오
-        details: |
-            - 2021 / 엘리스
-            - 2022 / 엘리스, 카카오
-
+      
       - role: 정보보호병 (825)
         time: 2021.04 - 2023.01
         company: 대한민국 공군
@@ -251,6 +244,13 @@ experiences:
           주요 업무로는 정보보호 장비 관리 및 관제, 정책 및 차단 관리, 정보보호 관련 훈련 대응 업무를 진행했습니다.
             - 제3훈련비행단
             - 정보체계운영반, 정보보호반
+      
+      - role: 국방분야 SW & AI 역량강화 교육
+        time: 2021, 2022
+        company: 엘리스, 카카오
+        details: |
+            - 2021 / 엘리스
+            - 2022 / 엘리스, 카카오
 
       - role: CTF Player
         time: 2020 - 2021.03
