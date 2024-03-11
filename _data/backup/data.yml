@@ -121,19 +121,6 @@ education:
         time: 2020 - Present
         details: |
           컴퓨터 공학 (주전공) 및 사이버보안 (복수전공)
-      - degree: 디지털포렌식트랙 
-        university: 차세대 보안리더 양성 프로그램 9기
-        time : 2020.06 ~ 2021.03
-        details: |
-          디지털포렌식 트랙 / 중고거래사기방지플랫폼 제작 / TOP 14
-      - degree: 전문 B
-        university: 정보보호영재교육원 
-        time : 2017 ~ 2020
-        details: |
-          4기, 5기 수료생, 6기 교육생 
-            - 4기 / Active X의 문제점에 대한 고찰 (영재원 프로젝트)
-            - 5기 / 메모리 & 디스크 포렌식 (영재원 프로젝트)
-            - 6기 / 파일 시그니처로 파일 종류 특정하는 SW 원리 (영재원 프로젝트)
       - degree: 공학반 (이과)
         university: 창원 경일 고등학교
         time : 2017 ~ 2020
@@ -185,9 +172,7 @@ oss:
         link: "#"
         tagline: "장려상"
       
-      - titile: 2023년 2학기 진로탐색빌드업 (포트폴리오 심사)
-        link: "#"
-        tagline: "1위"
+      - title: 
 
 experiences:
     title: 주요 경험
@@ -242,7 +227,6 @@ experiences:
         details: |
             - 2021 / 엘리스
             - 2022 / 엘리스, 카카오
-
       - role: 정보보호병 (825)
         time: 2021.04 - 2023.01
         company: 대한민국 공군
@@ -251,26 +235,35 @@ experiences:
           주요 업무로는 정보보호 장비 관리 및 관제, 정책 및 차단 관리, 정보보호 관련 훈련 대응 업무를 진행했습니다.
             - 제3훈련비행단
             - 정보체계운영반, 정보보호반
-
+      - role: 디지털포렌식 트랙 교육생 
+        time: 2020.06 - 2021.03
+        company: 차세대 보안리더 양성 프로그램 9기
+        details: |
+          CATCH-YOU / 중고거래사기방지 플랫폼 제작 / TOP 14
       - role: CTF Player
         time: 2020 - 2021.03
         company: Team Senko
         details: |
           Dropper LAB 산하 CTF TEAM / 국내, 해외 CTF 참가
-  
       - role: Dev Team Member
         time: 2019 - 2020.12
         company: Dropper LAB
         details: |
           Dropper LAB / 백엔드 파트 활동
             - Dropper API / 백엔드 보조 파트 (COVID-19)
-  
+      - role: 전문 B 교육생 
+        time: 2017 - 2019
+        company: 대구대학교 정보보호영재교육원
+        details: |
+          4기, 5기 수료생, 6기 교육생 
+            - 4기 / Active X의 문제점에 대한 고찰 (영재원 프로젝트)
+            - 5기 / 메모리 & 디스크 포렌식 (영재원 프로젝트)
+            - 6기 / 파일 시그니처로 파일 종류 특정하는 SW 원리 (영재원 프로젝트)
       - role: 차세대핵심보안인력 교육훈련 수료
         time: 2017, 2018
         company: CSTEC
         details: |
           정보보호영재교육원 연계 교육
-
       - role: 교육생 
         time: 2015
         company: ITBANK 
