@@ -115,7 +115,8 @@ career-profile:
 
 education:
     title: 교육
-    info: 장기 교육 및 학위 관련 교육 내역
+    info: >
+    장기 교육 및 학위 관련 교육 내역
       - degree: 학부 (컴퓨터소프트웨어학부)
         university: 대구가톨릭대학교
         time: 2020 - Present
@@ -143,7 +144,8 @@ education:
           
 oss:
     title: 수상
-    intro: 고등학교 (정보보호 및 개발 관련) 및 대학교 내 수상 내역
+    intro: >
+    고등학교 (정보보호 및 개발 관련) 및 대학교 내 수상 내역
     contributions:
       - title: 대구대학교 정보보호영재교육원 4기
         link: "#"
@@ -191,7 +193,8 @@ oss:
 
 experiences:
     title: 주요 경험
-    info: 단기 교육 및 활동, 경험 내역
+    info: >
+      단기 교육 및 활동, 경험 내역
       - role: Member
         time: 2023.09 ~ Present
         company: i-Keeper
