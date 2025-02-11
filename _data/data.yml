@@ -73,7 +73,7 @@ career-profile:
       
       YeoPEVA라는 닉네임을 사용하고 있으며, 천천히라도 꾸준히 성장하는 것을 목표로 하고 있습니다.
       
-      주요 관심사는 백엔드, DevOps, DevSecOps이며, DFIR(CERT) 및 CTI에 또한 관심을 가지고 있습니다.
+      주요 관심사는 백엔드, DevOps, DevSecOps이며, DFIR 및 CTI에 또한 관심을 가지고 있습니다.
       
       단순히 동작하는 서비스를 만들기보다는, 보다 안전하고 쾌적한 서비스를 제작하기 위해 노력하고 있습니다.
 
@@ -116,11 +116,18 @@ career-profile:
 education:
     title: 교육
     info: 
+      - degree: 학부 (SW융합대학)
+      university: 순천향대학교
+      time: 2025.03 - Present
+      details: |
+        정보보호학과 전공
       - degree: 학부 (컴퓨터소프트웨어학부)
         university: 대구가톨릭대학교
-        time: 2020 - Present
+        time: 2020.03 - 2025.02
         details: |
-          컴퓨터 공학 (주전공) 및 사이버 보안 (복수전공)
+          컴퓨터 공학 (주전공) 및 사이버 보안 (복수전공) / 중퇴 (편입)
+            - 수상 : 2023-2 진로탐색빌드업, 포트폴리오 (1위)
+            - 수상 : 2024-2 창의도전학기, Stellar Stellar, 사례발표회 (1위 / 최우수팀)
       - degree: 디지털포렌식트랙 
         university: 차세대 보안리더 양성 프로그램 9기
         time : 2020.06 ~ 2021.03
@@ -140,6 +147,8 @@ education:
         details: |
           인문계 고등학교 / 학교 내 정보보호 동아리 운영
             - KY Security 1st CTF 운영 & 활동
+            - 수상 : 과학주제발표대회 : 대상 (1위)
+            - 수상 : 수학여행 탐구보고서 우수상 : 대상 
           
 oss:
     title: 수상
@@ -184,14 +193,18 @@ oss:
       - title: 제 9회 디지털 범인을 찾아라 (2023)
         link: "#"
         tagline: "장려상"
-      
-      - title: 2023-2 진로탐색빌드업, 포트폴리오
-        link: "#"
-        tagline: "1위"
-      
+     
       - title: HCC 2024
         link: "#"
         tagline: "장려상"
+      
+      - title: 한-베트남 제2회 국제SW코딩 경진대회 IoT 특화코딩 (2024)
+        link: "#"
+        tagline: "대상 (사단법인경북ICT융합산업진흥협회)"      
+      
+      - title: 2024년도 제22회 TOPCIT 정기평가 (2024)
+        link: "#"
+        tagline: "우수상 (대구가톨릭대학교 SW중심대학사업단장)"
       
       - title: 제 10회 디지털 범인을 찾아라 (2024)
         link: "#"
