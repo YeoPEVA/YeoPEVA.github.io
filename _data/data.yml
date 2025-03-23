@@ -7,7 +7,7 @@ sidebar:
     education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: LEE CHANGYEOB 
+    name: Changyeob, Lee 
     tagline: undergraduate
     avatar: profile.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -332,6 +332,16 @@ projects:
       - title: 해킹캠프 
         link: "#"
         tagline: "14,16,17,18회 참가"
+
+      - title: 누리캅스 - 대구경찰청 (2024)
+        link: "#"
+        tagline: "누리캅스 & 대구경찰청"
+      - title: 개인정보 불법유통 대응 대학생 모니터링단 (2024)
+        link: "#"
+        tagline: "개인정보 불법유통 대응 - 정책 제안 및 모니터링"
+      - title: 오픈소스아카데미 - OpenStack (2024 - 참여형)
+        link: "#"
+        tagline: "OpenStack 관련 활동"
       
       - title: 창원문화도시00청소년 해커톤대회
         link: "#"
@@ -348,7 +358,7 @@ projects:
       - title: OSAM 2022
         link: "#"
         tagline: "국방정보체계 모니터링 플랫폼"
-
+      
       - title: 윈도우 디지털 포렌식 완벽 활용서
         link: "#"
         tagline: "베타리더 참가"
