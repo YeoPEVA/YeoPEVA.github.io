@@ -150,41 +150,41 @@ oss:
     title: 수상
     intro: 
     contributions:
-      - title: 창원문화도시00청소년 해커톤
+      - title: 제 8,9,10,11회 디지털 범인을 찾아라 (2022 ~ 2025)
         link: "#"
-        tagline: "으뜸상 (창원시장상)"
+        tagline: "장려상"
 
-      - title: 코드게이트 2018
+      - title: 제1회 영남권 사이버 공격 방어 대회(대학팀)  
         link: "#"
-        tagline: "영상공모전 특별상"
+        tagline: 우수상 (한국주택금융공사 사장)
 
-      - title: 해킹캠프 18회
+      - title: 제 5회, 6회 호남사이버보안 콘퍼런스 침해대응 / 분석경진대회 (2024 ~ 2025)
         link: "#"
-        tagline: "1위 - 둘리팀"
-
-      - title: 제1회 DU-IF 창업아이디어 경진대회
-        link: "#"
-        tagline: "최우수상"    
-
-      - title: KDFS 2020
-        link: "#"
-        tagline: "3위 - 가짜수사관"        
+        tagline: "장려상, 우수상(KISA 원장상)"
 
       - title: 공군 정보통신경연대회 2022 (해킹방어)
         link: "#"
         tagline: "최우수상 (공군 참모총장)"
 
-      - title: 제 5회, 6회 호남사이버보안 콘퍼런스 침해대응 / 분석경진대회 (2024 ~ 2025)
+      - title: KDFS 2020
         link: "#"
-        tagline: "장려상, 우수상(KISA 원장상)"
-    
-      - title: 제1회 영남권 사이버 공격 방어 대회(대학팀)  
+        tagline: "3위 - 가짜수사관"     
+
+      - title: 제1회 DU-IF 창업아이디어 경진대회
         link: "#"
-        tagline: 우수상 (한국주택금융공사 사장)
-                  
-      - title: 제 8,9,10,11회 디지털 범인을 찾아라 (2022 ~ 2025)
+        tagline: "최우수상"    
+
+      - title: 해킹캠프 18회
         link: "#"
-        tagline: "장려상"
+        tagline: "1위 - 둘리팀"
+
+      - title: 코드게이트 2018
+        link: "#"
+        tagline: "영상공모전 특별상"
+
+      - title: 창원문화도시00청소년 해커톤
+        link: "#"
+        tagline: "으뜸상 (창원시장상)"
 
 experiences:
     title: 주요 경험
