@@ -195,7 +195,7 @@ experiences:
         details: |
             - HDFLAB 
 
-      - role: SCH 사이버보안연구센터
+      - role: Member
         time: 2025.09 ~ Present
         company: SCH 사이버보안연구센터
         details: |
@@ -352,6 +352,9 @@ projects:
       - title: 윈도우 디지털 포렌식 완벽 활용서
         link: "#"
         tagline: "베타리더 참가"
+      - title: 부산소프트웨어마이스터고 2023, 2024, 2025
+        link: "#"
+        tagline: "전공동아리 멘토"
       - title: XXXX
         link: "#"
         tagline: "CTF 문제 - 외주"
