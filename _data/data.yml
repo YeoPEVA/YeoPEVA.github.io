@@ -28,8 +28,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf_e: https://github.com/YeoPEVA/YeoPEVA.github.io/blob/master/_data/resume_en.pdf
-    pdf_k: https://github.com/YeoPEVA/YeoPEVA.github.io/blob/master/_data/resume_ko.pdf
+    pdf: https://github.com/YeoPEVA/YeoPEVA.github.io/blob/master/_data/resume_en.pdf
 
     languages:
       title: Languages
