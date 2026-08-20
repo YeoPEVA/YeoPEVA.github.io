@@ -17,6 +17,7 @@ sidebar:
     citizenship:
     website: noperfectsecurity.tistory.com #do not add http://
     website2: yeopeva.postype.com #do not add http://
+    website3: info.yeopeva.me #do not add https://
     linkedin: changyeob-lee-yeopeva
     xing: 
     github: YeoPEVA
@@ -84,8 +85,8 @@ career-profile:
       - 디지털포렌식 2급 (2022.12.22 ~ 2028.12.22)
       
       자격증 (해외)
-      - Exterro ACE (2022.01.11 ~ 2024.01.11)
-      - AWS Solution Architect - Associate (2023.07.26 ~ 2026.7.26) 
+      - Exterro ACE (2022.01.11 ~ 2024.01.11, 만료)
+      - AWS Solution Architect - Associate (2023.07.26 ~ 2026.07.26, 만료)
 
       자격증 (ETC)
       - 문서실무사 4급 (2011.12)
@@ -93,7 +94,7 @@ career-profile:
       - ITQ 아래한글 A (2013.10)
       - ITQ 인터넷 A (2014.01)
       - 운전면허 2종 보통 (2020.01)
-      - 매경TEST 우수 (2022.09.02 ~ 2024.09.01)
+      - 매경TEST 우수 (2022.09.02 ~ 2024.09.01, 만료)
 
       
 
@@ -205,6 +206,13 @@ experiences:
         details: |
             - SCHCsRC
             - 악성코드, 익스플로잇 킷 분석 및 연구 
+
+      - role: 전공동아리 멘토 & 산학겸임교사
+        time: 2023.04 ~ Present
+        company: 부산소프트웨어마이스터고
+        details: |
+            - 2023년부터 전공동아리 멘토로 활동하고 있습니다.
+            - 2026.03 ~ 2026.07 / 산학겸임교사 - 정보보호관리 교과목 담당
 
       - role: Member
         time: 2023.09 ~ 2024.07
@@ -357,9 +365,6 @@ projects:
       - title: 윈도우 디지털 포렌식 완벽 활용서
         link: "#"
         tagline: "베타리더 참가"
-      - title: 부산소프트웨어마이스터고 2023, 2024, 2025
-        link: "#"
-        tagline: "전공동아리 멘토"
       - title: XXXX
         link: "#"
         tagline: "CTF 문제 - 외주"
@@ -381,7 +386,7 @@ publications:
     papers:
       - title: "Stellar-Agent: IaC 룰셋 및 모델 컨텍스트 프로토콜(MCP)을 통합한 AI 에이전트 기반 하이브리드 DevSecOps 정책 감사 프레임워크"
         link: "#"
-        authors: 정준영, 이창엽, 이정민
+        authors: 정준영, 이창엽, 이정민, 이유식
         conference: "한국데이터사이언스학회 동계 종합학술대회, 2025"
 
       - title: "온라인 직거래 환경에서의 사기 피해에 대한 사전 예방 필요성 제언 : 사기 판별 요소를 중심으로"

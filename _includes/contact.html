@@ -33,13 +33,19 @@
 
     {% if sidebar.website %}
     <li class="website"><i class="fas fa-globe-americas"></i>
-      <a href="http://{{ sidebar.website }}" target="_blank">{{ sidebar.website }}</a>
+      <a href="https://{{ sidebar.website }}" target="_blank" rel="noopener">{{ sidebar.website }}</a>
     </li>
     {% endif %}
 
     {% if sidebar.website2 %}
     <li class="website"><i class="fas fa-globe-americas"></i>
-      <a href="http://{{ sidebar.website2 }}" target="_blank">{{ sidebar.website2 }}</a>
+      <a href="https://{{ sidebar.website2 }}" target="_blank" rel="noopener">{{ sidebar.website2 }}</a>
+    </li>
+    {% endif %}
+
+    {% if sidebar.website3 %}
+    <li class="website"><i class="fas fa-globe-americas"></i>
+      <a href="https://{{ sidebar.website3 }}" target="_blank" rel="noopener">{{ sidebar.website3 }}</a>
     </li>
     {% endif %}
 
