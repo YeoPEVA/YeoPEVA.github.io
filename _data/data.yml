@@ -391,12 +391,12 @@ publications:
 
       - title: "온라인 직거래 환경에서의 사기 피해에 대한 사전 예방 필요성 제언 : 사기 판별 요소를 중심으로"
         link: "#"
-        authors: 현장호, 이창엽, 임다연, 최원영, 이현호, 이진우
+        authors: 현장호, 임다연, 이창엽, 이진우, 이현호, 최원영
         conference: "경찰학연구"
 
-      - title: "중고거래사기방지 플랫폼 제안"
+      - title: "중고 거래 사기 방지 플랫폼 제안"
         link: "#"
-        authors: 현장호, 이창엽, 임다연, 이현호, 이진우
+        authors: 현장호, 이현호, 임다연, 이진우, 이창엽, 오동빈, 최원영
         conference: "한국정보보호학회 동계학술대회, 2020"
 
       - title: "Check My Mac for fun"
@@ -419,7 +419,7 @@ publications:
         authors: 이창엽
         conference: "5월 소프트웨어를 물들이다., 2019"
 
-      - title: "카드 해킹의 문제점과 대비방안"
+      - title: "카드해킹의 문제점과 대비방안"
         link: "#"
         authors: 이진우, 이정훈, 이창엽, 노무승, 오현수
         conference: "한국정보보호학회 동계학술대회, 2018"
