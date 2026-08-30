@@ -198,14 +198,16 @@ experiences:
         time: 2025.10 ~ Present
         company: HSPACE FORENSIC LAB
         details: |
-            - HDFLAB 
+            - HDFLAB
+            - 소비팟 소속 / 상·하반기 제공 문제 풀이 후 보고서 작성
 
       - role: Member
         time: 2025.09 ~ Present
         company: SCH 사이버보안연구센터
         details: |
             - SCHCsRC
-            - 악성코드, 익스플로잇 킷 분석 및 연구 
+            - 악성코드, 익스플로잇 킷 분석 및 연구
+            - 랜섬웨어·인포스틸러 분석 / 악성코드 분석·수집 자동화 연구
 
       - role: 전공동아리 멘토 & 산학겸임교사
         time: 2023.04 ~ Present
@@ -213,6 +215,7 @@ experiences:
         details: |
             - 2023년부터 전공동아리 멘토로 활동하고 있습니다.
             - 2026.03 ~ 2026.07 / 산학겸임교사 - 정보보호관리 교과목 담당
+            - 담당 팀 : 2023·2024 마루 / 2025 솔빗 / 2026 다솜
 
       - role: Member
         time: 2023.09 ~ 2024.07
@@ -362,9 +365,9 @@ projects:
         link: "#"
         tagline: "국방정보체계 모니터링 플랫폼"
       
-      - title: 윈도우 디지털 포렌식 완벽 활용서
-        link: "#"
-        tagline: "베타리더 참가"
+      - title: 윈도우 디지털 포렌식 완벽 활용서 (2022.09)
+        link: "https://www.yes24.com/product/goods/114856263"
+        tagline: "베타 리더 - 이승무 저, 비제이퍼블릭"
       - title: XXXX
         link: "#"
         tagline: "CTF 문제 - 외주"
