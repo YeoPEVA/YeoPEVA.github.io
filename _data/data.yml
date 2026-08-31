@@ -221,7 +221,7 @@ experiences:
         time: 2023.09 ~ 2024.07
         company: i-Keeper
         details: |
-            - i-Keeper (1-2) / CERT팀 - MFT 도구 제작 
+            - i-Keeper (1-2) / CERT팀 - MFT 도구 제작 (MFT-Casper)
             - i-Keeper (2-1) / DEV팀 (장비부장)
 
       - role: Member
@@ -307,6 +307,45 @@ projects:
     intro: >
       진행했던 프로젝트 및 활동 내용입니다.
     assignments:
+      - title: Stellar-Agent (2025.03 ~ 2025.12)
+        link: "https://github.com/Stellar-Agent"
+        tagline: "IaC-Rule Set & MCP 기반 정책 감사 도구 - Checkov·KICS·Trivy 스캐너와 AI 에이전트 결합, IaC 감사 파트 담당"
+      - title: 디지털 포렌식 · 침해대응 경진대회 분석 (2022.12 ~ 2025.12)
+        link: "https://info.yeopeva.me/projects/dfir-competitions.html"
+        tagline: "HCCC 2025 Web Server 이미지 분석 담당 - 웹셸 명령 8건 복원, cron 지속성 확인"
+      - title: 금융보안아카데미 2025 / 화이트햇 콘테스트 (2025)
+        link: "https://info.yeopeva.me/projects/kfsi-academy.html"
+        tagline: "화이트햇 콘테스트 2025 예선 포렌식 파트 담당 - 대학생부 4등, 본선 진출"
+      - title: i-Keeper / MFT Parser 분석 및 개선 (2023.09 ~ 2024.02)
+        link: "https://github.com/Casper-Wants-To-Run/MFT-Casper"
+        tagline: "analyzeMFT 기반 도구 - CLI to GUI 전환, JSON 출력 개선"
+      - title: BoB 중고거래사기방지 플랫폼 (2020.09 ~ 2020.12)
+        link: "https://info.yeopeva.me/projects/bob-platform.html"
+        tagline: "크롤러 3사·MySQL·ELK 구축 담당 - 검증 사기 매물 101건 기반 판별 로직"
+      - title: Kaspersky CTF 2025
+        link: "#"
+        tagline: "Asia·Oceania 716팀 중 15위 / 한국 2위 - 금붕어하겐다즈도둑"
+      - title: DefCamp CTF 2025
+        link: "#"
+        tagline: "701팀 중 62위 - 금붕어하겐다즈도둑"
+      - title: FIESTA 2025 대학부
+        link: "#"
+        tagline: "122팀 중 7위 / 특별상(에너자이저상) - 금붕어하겐다즈도둑"
+      - title: 제1회 영남권 사이버 공격 방어 대회 예선 (2025)
+        link: "#"
+        tagline: "대학생부 3위 / 본선 진출 - 금붕어하겐다즈도둑"
+      - title: 유플러스 시큐리티 해커톤 예선 (2025)
+        link: "#"
+        tagline: "103팀 중 19위 - 금붕어하겐다즈도둑"
+      - title: WHITEHAT 2025 예선
+        link: "#"
+        tagline: "대학생부 4위 / 본선 진출 - 금붕어하겐다즈도둑"
+      - title: LINE CTF 2025
+        link: "#"
+        tagline: "162팀 중 31위 - 금붕어하겐다즈도둑"
+      - title: 제1회 영남권 사이버 공격 방어 대회 결선 (2025)
+        link: "#"
+        tagline: "우수상(한국주택금융공사 사장상) - 금붕어하겐다즈도둑"
       - title: 정보보호영재교육원 CTF
         link: "#"
         tagline: "2017, 2018, 2019 Finalist"
