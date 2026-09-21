@@ -151,6 +151,10 @@ oss:
     title: 수상
     intro: 
     contributions:
+      - title: 제3회 정보보호 교육·훈련 사이버공격·방어 시나리오 경진대회 (ATHENA 2026)
+        link: "https://info.yeopeva.me/awards/athena-2026.html"
+        tagline: "한국인터넷진흥원장상 - 통신 DFIR 시나리오"
+
       - title: 제 8,9,10,11회 디지털 범인을 찾아라 (2022 ~ 2025)
         link: "#"
         tagline: "장려상"
