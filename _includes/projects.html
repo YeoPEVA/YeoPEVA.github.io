@@ -20,7 +20,7 @@
     <div class="item">
 
       <span class="project-title">
-        {% if project.link %}
+        {% if project.link and project.link != "#" %}
         <a href="{{ project.link }}" target="_blank">{{ project.title }}</a>
         {% else %}
         {{ project.title }}
