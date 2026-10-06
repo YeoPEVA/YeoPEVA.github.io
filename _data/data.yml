@@ -103,7 +103,7 @@ education:
     info: 
       - degree: 학부 (SW융합대학)
         university: 순천향대학교
-        time: 2025.02 - Present
+        time: 2025.02 - 2027.02 (졸업예정)
         details: |
           정보보호학과 전공
             - 수상 : 2025 SCHU AI & SW Festival SW 프로젝트 경진대회 대상 (Stellar-Agent 프로젝트)
@@ -328,20 +328,20 @@ projects:
       진행했던 프로젝트 및 활동 내용입니다.
     assignments:
       - title: Stellar-Agent (2025.03 ~ 2025.12)
-        link: "https://github.com/Stellar-Agent"
-        tagline: "IaC-Rule Set & MCP 기반 정책 감사 도구 - Checkov·KICS·Trivy 스캐너와 AI 에이전트 결합, IaC 감사 파트 담당"
+        link: "https://info.yeopeva.me/projects/stellar-agent.html"
+        tagline: "IaC-Rule Set & MCP 기반 정책 감사 도구 (팀 프로젝트) - IaC 파트 담당, IaC→SBOM 도구의 CloudFormation 파서 구현, 스캐너 연동 일부 참여"
       - title: 디지털 포렌식 · 침해대응 경진대회 분석 (2022.12 ~ 2025.12)
         link: "https://info.yeopeva.me/projects/dfir-competitions.html"
-        tagline: "HCCC 2025 Web Server 이미지 분석 담당 - 웹셸 명령 8건 복원, cron 지속성 확인"
+        tagline: "HCCC 2025 Web Server 이미지 분석 담당 - 명령형 요청 8건과 웹셸 코드 대조, root cron 등록 확인"
       - title: 금융보안아카데미 2025 / 화이트햇 콘테스트 (2025)
         link: "https://info.yeopeva.me/projects/kfsi-academy.html"
-        tagline: "화이트햇 콘테스트 2025 예선 포렌식 파트 담당 - 대학생부 4등, 본선 진출"
+        tagline: "화이트햇 콘테스트 2025 예선 포렌식 파트 담당 - PCAP 숨김 메시지 복원 등 2문제 풀이, 팀 대학생부 4위·본선 진출"
       - title: i-Keeper / MFT Parser 분석 및 개선 (2023.09 ~ 2024.02)
         link: "https://github.com/Casper-Wants-To-Run/MFT-Casper"
-        tagline: "analyzeMFT 기반 도구 - CLI to GUI 전환, JSON 출력 개선"
+        tagline: "analyzeMFT 기반 도구 - PyQt GUI 구현, JSON 출력 예외 처리 보강"
       - title: BoB 중고거래사기방지 플랫폼 (2020.09 ~ 2020.12)
         link: "https://info.yeopeva.me/projects/bob-platform.html"
-        tagline: "크롤러 3사·MySQL·ELK 구축 담당 - 검증 사기 매물 101건 기반 판별 로직"
+        tagline: "크롤러 3사·MySQL·ELK 구축 담당 - 팀이 사기로 확인한 매물 101건 기반 판별 기준"
       - title: Kaspersky CTF 2025
         link: "#"
         tagline: "Asia·Oceania 716팀 중 15위 / 한국 2위 - 금붕어하겐다즈도둑"
@@ -416,7 +416,7 @@ projects:
         tagline: "사이버 전사 교육 플랫폼"
       - title: 공군 창업경진대회 2022 
         link: "#"
-        tagline: "XXX (비공개)"
+        tagline: "참가 (세부 내용 비공개)"
       - title: OSAM 2021
         link: "#"
         tagline: "군 중고거래 플랫폼 제안"
@@ -427,18 +427,19 @@ projects:
       - title: 윈도우 디지털 포렌식 완벽 활용서 (2022.09)
         link: "https://www.yes24.com/product/goods/114856263"
         tagline: "베타 리더 - 이승무 저, 비제이퍼블릭"
-      - title: XXXX
-        link: "#"
-        tagline: "CTF 문제 - 외주"
-      - title: XXXXX
-        link: "#"
-        tagline: "CTF 문제 - 외주"
-      - title: XXXXX
-        link: "#"
-        tagline: "CTF 문제 - 제작 & 운영"
-      - title: XXX
-        link: "#"
-        tagline: "발표자료"
+      # 구체화할 자료가 없어 비노출 (CTF 문제 외주 2건, 제작·운영 1건, 발표자료 1건) — 제목을 정하면 주석을 풀어 다시 노출합니다.
+      # - title: XXXX
+      #   link: "#"
+      #   tagline: "CTF 문제 - 외주"
+      # - title: XXXXX
+      #   link: "#"
+      #   tagline: "CTF 문제 - 외주"
+      # - title: XXXXX
+      #   link: "#"
+      #   tagline: "CTF 문제 - 제작 & 운영"
+      # - title: XXX
+      #   link: "#"
+      #   tagline: "발표자료"
 
 
 publications:
