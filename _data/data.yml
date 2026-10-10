@@ -124,7 +124,7 @@ education:
             - 수상 : 2024년도 제22회 TOPCIT 정기평가 (2024) 우수상
       - degree: 디지털포렌식트랙 
         university: 차세대 보안리더 양성 프로그램 9기
-        time : 2020.06 ~ 2021.03
+        time : 2020.07 ~ 2021.03
         details: |
           디지털포렌식 트랙 / 중고거래사기방지플랫폼 제작 / TOP 14 (자문단 평가 진출)
       - degree: 전문 B
@@ -253,7 +253,7 @@ experiences:
         time: 2023.09 ~ 2024.07
         company: i-Keeper
         details: |
-            - i-Keeper (1-2) / CERT팀 - MFT 도구 제작 (MFT-Casper)
+            - i-Keeper (1-2) / CERT팀 - MFT 도구 GUI 구현 (MFT-Casper)
             - i-Keeper (2-1) / DEV팀 (장비부장)
 
       - role: Member
@@ -353,7 +353,7 @@ projects:
         tagline: "analyzeMFT 기반 도구 - PyQt GUI 구현, JSON 출력 예외 처리 보강"
       - title: BoB 중고거래사기방지 플랫폼 (2020.09 ~ 2020.12)
         link: "https://info.yeopeva.me/projects/bob-platform.html"
-        tagline: "크롤러 3사·MySQL·ELK 구축 담당 - 팀이 사기로 확인한 매물 101건 기반 판별 기준"
+        tagline: "3개 플랫폼 게시물 수집·MySQL·ELK 구축 담당 - 팀이 사기로 확인한 매물 101건 기반 판별 기준"
       - title: Kaspersky CTF 2025
         link: "#"
         tagline: "Asia·Oceania 716팀 중 15위 / 한국 2위 - 금붕어하겐다즈도둑"
