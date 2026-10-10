@@ -8,7 +8,7 @@ url: 'http://webjeda.com'
 # disabling since we are using a custom domain
 #baseurl: '/online-cv' 
 
-description: A beautiful Jekyll theme for creating resume
+description: 이창엽 — 디지털 포렌식·침해사고대응(DFIR) 중심 순천향대학교 정보보호학과 학부생(2027.02 졸업예정)의 이력서
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
 theme_skin: blue # blue turquoise green berry orange ceramic
 chrome_mobile_color: #use hex colors (ex:#1976d2) or leave empty if you don't want a color for chrome mobile searchbar
