@@ -151,6 +151,10 @@ oss:
     title: 수상
     intro: 
     contributions:
+      - title: 디지털포렌식챌린지 2026 문제풀이 부문
+        link: "https://info.yeopeva.me/awards/dfc-2026.html"
+        tagline: "최우수상 (국가정보원장) - HSPACE FORENSIC LAB 팀 Hspace 야호~"
+
       - title: 제3회 정보보호 교육·훈련 사이버공격·방어 시나리오 경진대회 (ATHENA 2026)
         link: "https://info.yeopeva.me/awards/athena-2026.html"
         tagline: "한국인터넷진흥원장상 - 통신 DFIR 시나리오"
@@ -232,6 +236,7 @@ experiences:
         details: |
             - HDFLAB
             - 소비팟 소속 / 상·하반기 제공 문제 풀이 후 보고서 작성
+            - 디지털포렌식챌린지 2026 문제풀이 부문 최우수상 (팀 Hspace 야호~)
 
       - role: Member
         time: 2025.09 ~ Present
@@ -339,12 +344,12 @@ projects:
     intro: >
       진행했던 프로젝트 및 활동 내용입니다.
     assignments:
+      - title: 디지털 포렌식 · 침해대응 경진대회 분석 (2022.12 ~ 2026.11)
+        link: "https://info.yeopeva.me/projects/dfir-competitions.html"
+        tagline: "디지털포렌식챌린지 2026 문제풀이 부문 최우수상 (HSPACE FORENSIC LAB 팀) / HCCC 2025 Web Server 이미지 분석 담당 - 명령형 요청 8건과 웹셸 코드 대조, root cron 등록 확인"
       - title: Stellar-Agent (2025.03 ~ 2025.12)
         link: "https://info.yeopeva.me/projects/stellar-agent.html"
         tagline: "IaC-Rule Set & MCP 기반 정책 감사 도구 (팀 프로젝트) - IaC 파트 담당, IaC→SBOM 도구의 CloudFormation 파서 구현, 스캐너 연동 일부 참여"
-      - title: 디지털 포렌식 · 침해대응 경진대회 분석 (2022.12 ~ 2025.12)
-        link: "https://info.yeopeva.me/projects/dfir-competitions.html"
-        tagline: "HCCC 2025 Web Server 이미지 분석 담당 - 명령형 요청 8건과 웹셸 코드 대조, root cron 등록 확인"
       - title: 금융보안아카데미 2025 / 화이트햇 콘테스트 (2025)
         link: "https://info.yeopeva.me/projects/kfsi-academy.html"
         tagline: "화이트햇 콘테스트 2025 예선 포렌식 파트 담당 - PCAP 숨김 메시지 복원 등 2문제 풀이, 팀 대학생부 4위·본선 진출"
